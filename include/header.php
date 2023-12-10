@@ -34,7 +34,7 @@
                         <div class="right-column box-s-two">
                             <div class="text">Help For All Charitable Trust </div>
                             <ul>
-                                <li><a href="tel:09806764956"><span>Contact Us : </span> +91 34838483838</a></li>
+                                <li><a href="tel:09806764956"><span>Contact Us : </span> +91 8587866606</a></li>
                             </ul>
                         </div>
                     </div>

@@ -11,10 +11,10 @@
                     <div class="col-lg-6">
                         <div class="donation-form-one-form-wrap s-two">
                             <ul class="donation-form-one-form-wrap-ul donate_form_amount_wrap">
-                                <li class="donation-form-one-price-value" data-dollars='1000'>$1000</li>
-                                <li class="donation-form-one-price-value" data-dollars='500'>$500</li>
-                                <li class="donation-form-one-price-value" data-dollars='100'>$100</li>
-                                <li class="donation-form-one-price-value" data-dollars='25'>$25</li>
+                                <li class="donation-form-one-price-value" data-rupess='1000'>₹1000</li>
+                                <li class="donation-form-one-price-value" data-rupess='500'>₹500</li>
+                                <li class="donation-form-one-price-value" data-rupess='100'>₹100</li>
+                                <li class="donation-form-one-price-value" data-rupess='25'>₹25</li>
                                 <li class="other-input"></li>
                             </ul>
                             <div class="donation-form-one-submit-btn"><button class="primary_btn-one donate_button"
@@ -28,7 +28,7 @@
                                         <div class="panel-heading">
                                             <h3 class="panel-title">Donating Amount</h3>
                                         </div>
-                                        <div class="donate-price-wrap">$<span class="donate-price"></span></div>
+                                        <div class="donate-price-wrap">₹<span class="donate-price"></span></div>
                                     </div>
                                     <div class="row">
                                         <div class="col-lg-6">
@@ -152,17 +152,17 @@
                                         <ul>
                                             <li>
                                                 <div class="icon"><i class="far fa-map-marker-alt"></i></div>
-                                                <div class="text-location">4486 Richards Avenue, Modesto CA - 95354
+                                                <div class="text-location">280, First Floor, Kucha Mir Ashiq, Chawri Bazar Delhi 110006
                                                 </div>
                                             </li>
                                             <li>
                                                 <div class="icon"><i class="far fa-envelope"></i></div>
                                                 <div class="text"><a
-                                                        href="mailto:hotline@gmail.com">hotline@gmail.com</a> </div>
+                                                        href="mailto:support@helpforallcharity.org">support@helpforallcharity.org</a> </div>
                                             </li>
                                             <li>
                                                 <div class="icon"><i class="far fa-phone"></i></div>
-                                                <div class="text"><a href="tel:+012(345)6789">+012 (345) 6789</a></div>
+                                                <div class="text"><a href="tel:+91 8587866606">+91 8587866606</a></div>
                                             </li>
                                         </ul>
                                     </div>
@@ -205,7 +205,7 @@
                                                             src="assets/images/resource/footer-1.jpg" alt=""></a> </div>
                                                 <div class="text-box">
                                                     <p><span class="far fa-calendar-alt"></span><a
-                                                            href="blog-details.html">24th January 2022</a></p>
+                                                            href="blog-details.html">24th January 2024</a></p>
                                                     <h6><a href="blog-details.html">We can build anything ni <br>hill
                                                             ground or building.</a></h6>
                                                 </div>
@@ -215,7 +215,7 @@
                                                         alt=""> </div>
                                                 <div class="text-box">
                                                     <p><span class="far fa-calendar-alt"></span><a
-                                                            href="blog-details.html">24th January 2022</a></p>
+                                                            href="blog-details.html">24th January 2024</a></p>
                                                     <h6><a href="blog-details.html">We can build anything ni <br>hill
                                                             ground or building.</a></h6>
                                                 </div>

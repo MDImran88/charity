@@ -15,7 +15,7 @@ include('include/header.php')
                                 <h6 class="banner-slider-sub-title mb-30"><span class="title-sep-left"><img
                                             src="assets/images/resource/icon-11.png" alt=""></span>Welcome to Help For All Chairtable Trust
                                 </h6>
-                                <h2 class="banner-slider-title mb-30">Non Profit <br>Charity Agency <br>For Children
+                                <h2 class="banner-slider-title mb-30">Non avail welfare<br>organizations<br>for one and all.
                                 </h2>
                                 <div class="banner-slider-btn"><a href="donate.html"
                                         class="primary_btn style-seven">Donation<i class="far fa-heart"></i></a></div>
@@ -24,7 +24,7 @@ include('include/header.php')
                     </div>
                 </div>
                 <div class="banner-block-one">
-                    <div class="image-layer" style="background-image:url(assets/images/main-slider/main-slider.jpg)">
+                    <div class="image-layer" style="background-image:url(assets/images/main-slider/main-slider-2.jpg)">
                     </div>
                     <div class="theme_container">
                         <div class="content-box">
@@ -63,26 +63,26 @@ include('include/header.php')
                         <div class="block-two">
                             <div class="sub-title mb-20"> <span class="title-sep-left"><img
                                         src="assets/images/resource/icon-4.png" alt=""></span>About Company </div>
-                            <h2 class="sec-title mb-20">Rise Your Hand to Help <br>The Poor Children </h2>
-                            <div class="text">Sorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                                gravida. Risucome viverra maecenas accumsan lacus vel facilisis. </div>
+                            <h2 class="sec-title mb-20">Raise up your voice <br>to serve the needy. </h2>
+                            <div class="text">To work especially for children's education towards humanity by 
+                                the way govt of India through corona vaccination, food relief, medical relief, 
+                                education, and preservation of the environment for a clean and green environment.
+                            </div>
                             <div class="icon-list">
                                 <ul>
-                                    <li><i class="fas fa-check"></i>Charity For Foods</li>
-                                    <li><i class="fas fa-check"></i>Charity For Water</li>
-                                    <li><i class="fas fa-check"></i>Charity For Education</li>
-                                    <li><i class="fas fa-check"></i>Charity For Medical</li>
+                                    <li><i class="fas fa-check"></i>Child Education</li>
+                                    <li><i class="fas fa-check"></i>Food Relief</li>
+                                    <li><i class="fas fa-check"></i>Medical Relief</li>
+                                    <li><i class="fas fa-check"></i>Preservation Of Environment</li>
                                 </ul>
                             </div>
                             <div class="inner-box">
-                                <div class="link-btn"> <a href="about.html" class="primary_btn">Donation<i
+                                <div class="link-btn"> <a href="#" class="primary_btn">Donation<i
                                             class="far fa-heart"></i></a> </div>
                                 <div class="contact-info">
                                     <div class="icon"><i class="flaticon-phone"></i></div>
                                     <div class="contact-number">
-                                        <div class="number">Hotline <br><a href="tel:+0123456789"><span>+012(345)
-                                                    6789</span></a></div>
+                                        <div class="number">Hotline <br><a href="tel:+0123456789"><span>+91 8587866606</span></a></div>
                                     </div>
                                 </div>
                             </div>
@@ -93,7 +93,7 @@ include('include/header.php')
         </section>
         <section class="donar">
             <div class="theme_container">
-                <div class="logo"><img src="assets/images/resource/icon-5.png" alt=""></div>
+            
                 <div class="row no-gutters">
                     <div class="col-lg-6">
                         <div class="donar-block">
@@ -108,10 +108,10 @@ include('include/header.php')
                             </div>
                             <div class="project-form s-two">
                                 <ul class="donation-amount">
-                                    <li class="donation-form-one-price-value" data-dollars='1000'>$1000</li>
-                                    <li class="donation-form-one-price-value" data-dollars='500'>$500</li>
-                                    <li class="donation-form-one-price-value" data-dollars='100'>$100</li>
-                                    <li class="donation-form-one-price-value" data-dollars='25'>$25</li>
+                                    <li class="donation-form-one-price-value" data-rupess='1000'>₹1000</li>
+                                    <li class="donation-form-one-price-value" data-rupess='500'>₹500</li>
+                                    <li class="donation-form-one-price-value" data-rupess='100'>₹100</li>
+                                    <li class="donation-form-one-price-value" data-rupess='25'>₹25</li>
                                     <li class="other-input"></li>
                                 </ul>
                                 <div class="from-button"><button class="primary_btn-one donate_button">Donation<i
@@ -125,7 +125,7 @@ include('include/header.php')
                 </div>
             </div>
         </section>
-        <section class="features pt-0">
+        <section class="features pt-0 d-none">
             <div class="bg" style="background-image:url(assets/images/background/child.jpg);"></div>
             <div class="theme_container">
                 <div class="row">
@@ -176,7 +176,7 @@ include('include/header.php')
                 </div>
             </div>
         </section>
-        <section class="causes">
+        <section class="causes d-none">
             <div class="theme_container">
                 <div class="title-box">
                     <div class="sub-title mb-20"><span class="title-sep-left"><img
@@ -462,7 +462,7 @@ include('include/header.php')
                     <div class="contact-info">
                         <div class="icon"><i class="flaticon-phone"></i></div>
                         <div class="contact-number">
-                            <div class="number">Hotline <br><a href="tel:+012(345)6789"><span>+012(345) 6789</span></a>
+                            <div class="number">Hotline <br><a href="tel:+91 8587866606"><span>+91 8587866606</span></a>
                             </div>
                         </div>
                     </div>
@@ -582,7 +582,7 @@ include('include/header.php')
                 </div>
             </div>
         </section>
-        <section class="funfact">
+        <section class="funfact d-none">
             <div class="theme_container">
                 <div class="row">
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInLeft" data-wow-delay="0ms"
@@ -636,7 +636,7 @@ include('include/header.php')
                 </div>
             </div>
         </section>
-        <section class="news">
+        <section class="news ">
             <div class="theme_container">
                 <div class="title-box text-center ">
                     <div class="sub-title mb-20"><span class="title-sep-left"><img
